@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 
 I'm Harsimran, a highly motivated developer who thrives on building beautiful and functional web applications. 
 
-* My journey began with front-end development, where I fell in love with creating user interfaces that are not only visually appealing but also performant and user-friendly (think React, Redux, and building slick UIs with Styled Components! 💅). 
+* My journey began with front-end development, where I fell in love with creating user interfaces that are not only visually appealing but also performant and user-friendly (think React, Redux, Vue.js and building slick UIs with Styled Components! 💅). 
 * This passion for crafting exceptional user experiences naturally led me to explore the back-end as well. I delved into Node.js, Express.js and .NET framework, empowering my applications with robust APIs and servers. 🚀
 
 But my quest for knowledge didn't stop there. To truly master the full-stack, I broadened my horizons to include:
