@@ -29,3 +29,4 @@ I'm always up for a challenge and love collaborating on interesting projects, es
 
 So if you're looking for a passionate developer who's a master of both the front-end and back-end, hit me up on email harsimrankaur0360@gmail.com or connect with me on LinkedIn ([www.linkedin.com/in/harsimrankaur360](www.linkedin.com/in/harsimrankaur360)) - let's build something awesome together! 🤝
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=simi360)](https://git.io/streak-stats)
