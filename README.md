@@ -31,4 +31,5 @@ So if you're looking for a passionate developer who's a master of both the front
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=simi360&theme=travelers-theme&border_radius=25&exclude_days=Sat&card_width=450&currStreakNum=EB3434&border=EB846C&ring=EB887E&fire=EB3434&excludeDaysLabel=50342A)](https://git.io/streak-stats)
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={simi360}&theme={theme_name}&exclude={exclude}
+Markdown Usage
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=simi360&theme=dark)
