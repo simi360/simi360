@@ -37,3 +37,10 @@ So if you're looking for a passionate developer who's a master of both the front
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=simi360&theme=dark)
 --->
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=simi360"
+    alt="simi360"
+  />
+</p>
