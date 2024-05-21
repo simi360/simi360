@@ -27,8 +27,9 @@
     <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue-dot-js&logoColor=white" alt="Vue.js" />
-    <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components" />
     <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Styled_Components-DB7093?logo=styled-components&logoColor=white" alt="Styled Components" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   </p>
 
   <h3>Back-End</h3>
