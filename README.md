@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js" />
     <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET" />
     <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#" />
-    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" />
+<!--     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python" /> -->
     <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java" />
   </p>
 
@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" alt="Express.js" />
     <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET" />
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=spring&logoColor=white" alt="Spring Boot" />
-    <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" />
+<!--     <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" alt="Django" /> -->
   </p>
 
   <h3>Databases</h3>
